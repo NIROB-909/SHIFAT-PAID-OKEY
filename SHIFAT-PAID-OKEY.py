@@ -3,5 +3,5 @@
 #তর টিম কে আন্তর্জাতিক ভাবে চুদি 
 
 import os
-import PAID.py
-PAID.py.loging()
+import SHIFAT-PAID_OKEY.py
+SHIFAT-PAID_OKEY.py.loging()
